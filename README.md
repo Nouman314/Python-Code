@@ -1,1 +1,1 @@
-# Python-Code
+# Python Crash Course, 2nd Edition
